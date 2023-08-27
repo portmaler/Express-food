@@ -11,9 +11,20 @@ ExpressFood is an Android application built using the MVVM architecture that all
 
 ## Screenshots
 
+### Home Screen
+
 ![Home Screen](screenshots/home_screen.jpg)
+
+### Meal Detail Screen
+
 ![Meal Details Screen](screenshots/meal_details_screen.jpg)
+
+### Favorite Screen
+
 ![Favorites Screen](screenshots/favorites_screen.jpg)
+
+### Categories Screen
+
 ![Categories Screen](screenshots/categories_screen.jpg)
 
 ## Technologies Used
@@ -26,8 +37,4 @@ ExpressFood is an Android application built using the MVVM architecture that all
 - Glide for image loading
 - Navigation Component for navigation between screens
 
-## Installation
 
-1. Clone this repository:
-   ```sh
-   git clone https://github.com/your-username/expressfood-app.git
